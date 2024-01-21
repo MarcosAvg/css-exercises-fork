@@ -1,0 +1,13 @@
+.button-b,
+.button-y {
+    font-size: 30px;
+}
+
+.button-b {
+    background-color: black;
+    color: white;
+}
+
+.button-y {
+    background-color: yellow;
+}
